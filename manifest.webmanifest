@@ -1,0 +1,16 @@
+{
+  "name": "Cassaforte",
+  "short_name": "Cassaforte",
+  "description": "Gestore personale di credenziali con cifratura locale",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10203f",
+  "theme_color": "#10203f",
+  "lang": "it",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
